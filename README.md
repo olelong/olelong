@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in **web, design, c++ programmation, photography...**
 
-- 👨‍💻 All of my projects are available at [My portfolio is coming soon]
+<!-- - 👨‍💻 All of my projects are available at [My portfolio is coming soon] -->
 
 - 📄 Know about my experiences by visiting my LinkedIn profile at <a href="https://linkedin.com/in/oriane-lelong" target="blank" align="top" ><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/oriane-lelong" height="20" width="30" /></a>
 
