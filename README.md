@@ -10,16 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [My portfolio is coming soon]
 
-- 📫 How to reach me **oriane.lelong@hotmail.fr**
+- 📄 Know about my experiences by visiting my LinkedIn profile at <a href="https://linkedin.com/in/oriane-lelong" target="blank" align="top" ><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/oriane-lelong" height="20" width="30" /></a>
 
-<!-- Badge LinkedIn -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/oriane-lelong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/oriane-lelong" height="30" width="40" /></a>
-</p>
-<!-- Test -->
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="oriane-lelong" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/oriane-lelong?trk=profile-badge">Oriane L.</a></div>
+- 📫 How to reach me **oriane.lelong@hotmail.fr**
 
               
 <!-- Tableau des langages et outils -->
