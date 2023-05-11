@@ -3,7 +3,6 @@
 
 
 <!-- Quelques informations -->
-<center>
 - 🔭 I’m currently working on **ft_transcendence at 42Paris**
 
 - 🌱 I’m currently learning **ReactJS, svelte, threeJS, threlte**
@@ -15,7 +14,6 @@
 - 📄 Know about my experiences by visiting my LinkedIn profile at <a href="https://linkedin.com/in/oriane-lelong" target="blank" align="top" ><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/oriane-lelong" height="20" width="30" /></a>
 
 - 📫 How to reach me **oriane.lelong@hotmail.fr**
-</center>
               
 <!-- Tableau des langages et outils -->
 <h3 align="left">Languages and Tools:</h3>
@@ -27,7 +25,7 @@
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **<p>Other </p> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olelong&show_icons=true&locale=en&layout=compact" alt="olelong" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olelong&show_icons=true&locale=en&layout=compact" alt="olelong" width="500" /></p>
 
 
 <!---
