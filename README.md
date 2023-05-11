@@ -2,10 +2,10 @@
 <h3 align="center">A passionate frontend developer from 42Paris School</h3>
 
 <div align="center">
-    <p margin="0">🔭 I’m currently working on: <strong> ft_transcendence at 42Paris </strong></br></br>
-    🌱 I’m currently learning: <strong> ReactJS, svelte, threeJS, threlte </strong></br></br>
-    👀 I’m interested in: <strong> Web, Design, <abbr title="C++">C++</abbr> programming, photography... </strong></br></br>
-    📄 Know about my experiences by visiting my <strong> LinkedIn profile at <a href="https://linkedin.com/in/oriane-lelong" target="blank" align="top" ><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/oriane-lelong" height="20" width="30" /></a> </strong></br></br>
+    <p margin="0">🔭 I’m currently working on: <strong> ft_transcendence at 42Paris </strong></br>
+    🌱 I’m currently learning: <strong> ReactJS, svelte, threeJS, threlte </strong></br>
+    👀 I’m interested in: <strong> Web, Design, <abbr title="C++">C++</abbr> programming, photography... </strong></br>
+    📄 Know about my experiences by visiting my <strong> LinkedIn profile at <a href="https://linkedin.com/in/oriane-lelong" target="blank" align="top" ><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/oriane-lelong" height="20" width="30" /></a> </strong></br>
     📫 How to reach me: Email me at  <strong> <a href="mailto:oriane.lelong@hotmail.fr">oriane.lelong@hotmail.fr </strong></a>
    </p>
 </div>
