@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oriane Lelong</h1>
 <h3 align="center">A passionate frontend developer from 42Paris School</h3>
 
+
 <!-- Quelques informations -->
+<center>
 - 🔭 I’m currently working on **ft_transcendence at 42Paris**
 
 - 🌱 I’m currently learning **ReactJS, svelte, threeJS, threlte**
@@ -13,7 +15,7 @@
 - 📄 Know about my experiences by visiting my LinkedIn profile at <a href="https://linkedin.com/in/oriane-lelong" target="blank" align="top" ><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/oriane-lelong" height="20" width="30" /></a>
 
 - 📫 How to reach me **oriane.lelong@hotmail.fr**
-
+</center>
               
 <!-- Tableau des langages et outils -->
 <h3 align="left">Languages and Tools:</h3>
