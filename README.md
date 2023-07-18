@@ -23,7 +23,7 @@
 </div>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats-olelong.vercel.app/api/top-langs?username=olelong&show_icons=true&locale=en&layout=compact" alt="olelong" width="400" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-olelong.vercel.app" alt="olelong" width="400" /></p>
 
 
 <!---
