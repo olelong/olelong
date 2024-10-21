@@ -4,7 +4,7 @@
 <div align="center">
 <p>🔭 I’m currently working on: <strong> ft_red_tetris at 42Paris </strong></br>
     👀 I’m interested in: <strong> Web, Design, <abbr title="C++">C++</abbr> programming, photography... </strong></br>
-    🌱 I’m currently learning: <strong> ReactJS, blender </strong></br>
+    🌱 I’m currently learning: <strong> ReactJS, Blender, Javascript </strong></br>
     📄 Know about my experiences by visiting my <strong> LinkedIn profile at <a href="https://linkedin.com/in/oriane-lelong" target="blank" align="top" ><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/oriane-lelong" height="20" width="30" /></a> </strong></br>
     📫 How to reach me: Email me at  <strong> <a href="mailto:oriane.lelong@hotmail.fr">oriane.lelong@hotmail.fr </strong></a>
    </p>
